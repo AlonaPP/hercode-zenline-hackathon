@@ -60,7 +60,6 @@ Intro session deck: [`slides/hercode-zenline-hackathon-intro.pptx`](slides/herco
 - [`docs/challenge.md`](docs/challenge.md): deeper challenge brief and quality bar.
 - [`docs/data-contract.md`](docs/data-contract.md): suggested structured fields for signals and recommendations.
 - [`docs/evaluation.md`](docs/evaluation.md): judging rubric.
-- [`starter-pack/`](starter-pack/): seed keywords, source ideas, competitor retailers, and example opportunity outputs.
 - [`examples/signals.csv`](examples/signals.csv): minimal example signal-row shape.
 - [`slides/hercode-zenline-hackathon-intro.pptx`](slides/hercode-zenline-hackathon-intro.pptx): intro-session slide deck.
 
@@ -103,8 +102,6 @@ You can build any useful part of the opportunity-detection system. Pick the part
 Pick one direction and make it work well. One useful capability that runs live is better than four half-finished ideas.
 
 A strong demo does not need to replace the whole flow. Improving one source, analysis step, scoring module, API, UI, or handoff artifact can be enough if the result is reusable and well demonstrated.
-
-Use the [`starter-pack/`](starter-pack/) if you want a faster start, but feel free to replace it with your own sources and assumptions.
 
 ## Demo Target
 
